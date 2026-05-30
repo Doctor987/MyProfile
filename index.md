@@ -1,7 +1,7 @@
 ประวัติส่วนตัว
 
 <p align="center">
-  <img src="images/profile01.png" width="180" >
+  <img src="images/profile.png" width="180" >
 </p>
 
 <h1 align="center">กิติศักดิ์ ด้วงนวม</h1>
