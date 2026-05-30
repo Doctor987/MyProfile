@@ -4,7 +4,7 @@
   <img src="images/profile.png" width="180" >
 </p>
 
-<h1 align="center">กิติศักดิ์ ด้วงนวม</h1>
+<h1 align="center">นพดล สืบบุญ</h1>
 
 <p align="center">
 🎓 นักศึกษาปริญญาตรีสาขาเทคโนโลยีสารสนเทศ <br>
