@@ -15,7 +15,7 @@
 
 | Skill            | ระดับ |
 | ---------------- | ----- |
-| HTML             | ⭐⭐  |
+| HTML             | ⭐⭐ ⭐ |
 | CSS              | ⭐⭐  |
 | JavaScript       | ⭐⭐  |
 | Microsoft Office | ⭐⭐⭐ |
