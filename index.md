@@ -1,19 +1,35 @@
-# My Profile
+ประวัติส่วนตัว
 
-![Profile](images/profile.png)
+<p align="center">
+  <img src="images/profile01.png" width="180" >
+</p>
 
-## ประวัติส่วนตัว
+<h1 align="center">กิติศักดิ์ ด้วงนวม</h1>
 
-ชื่อ: นพดล สืบบุญ
+<p align="center">
+🎓 นักศึกษาปริญญาตรีสาขาเทคโนโลยีสารสนเทศ <br>
+💻 สนใจด้าน IT Support | Web Development
+</p>
 
-กำลังศึกษาอยู่ชั้น : เทคโนโลยีสารสนเทศ (การพัฒนาเว็บและวิเคราะห์ระบบ)
+---
 
-### ความสนใจ
-- Programming
-- Web Development
-- Game Development
+| Skill            | ระดับ |
+| ---------------- | ----- |
+| HTML             | ⭐⭐  |
+| CSS              | ⭐⭐  |
+| JavaScript       | ⭐⭐  |
+| Microsoft Office | ⭐⭐⭐ |
+| GitHub           | ⭐ |
 
-### งานอดิเรก
-- เล่นเกม
-- ฟังเพลง
-- ดูหนัง
+---
+
+📞 ช่องทางติดต่อ
+
+* 📧 Email : ktsg17@gmail.com
+* 🌐 GitHub : https://github.com/kitisakG
+
+---
+
+<p align="center">
+✨ Thank you for visiting my GitHub Page ✨
+</p>
