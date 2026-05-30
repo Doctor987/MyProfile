@@ -15,9 +15,9 @@
 
 | Skill            | ระดับ |
 | ---------------- | ----- |
-| HTML             | ⭐⭐ ⭐ |
-| CSS              | ⭐⭐  |
-| JavaScript       | ⭐⭐  |
+| HTML             | ⭐|
+| Python              | ⭐⭐⭐ |
+| lua       | ⭐⭐  |
 | Microsoft Office | ⭐⭐⭐ |
 | GitHub           | ⭐ |
 
@@ -25,8 +25,8 @@
 
 📞 ช่องทางติดต่อ
 
-* 📧 Email : ktsg17@gmail.com
-* 🌐 GitHub : https://github.com/kitisakG
+* 📧 Email : kigunozaza@gmail.com
+* 🌐 GitHub :  https://github.com/Doctor987
 
 ---
 
