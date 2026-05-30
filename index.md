@@ -1,6 +1,6 @@
 # My Profile
 
-![Profile](images/profile.jpg)
+![Profile](images/profile.png)
 
 ## ประวัติส่วนตัว
 
