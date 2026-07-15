@@ -77,7 +77,7 @@
 📧 Email: **kigunozaza@gmail.com**
 
 🐙 GitHub:
-**<a href="https://github.com/Doctor987">github.com/Doctor987</a>**
+**<a href="https://doctor987.github.io/Cloud-Computing/">Cloud-Computing</a>**
 
 ---
 
