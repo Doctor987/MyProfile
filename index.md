@@ -81,6 +81,9 @@
 **<a href="https://doctor987.github.io/Software-Defined-Networking/">Software-Defined-Networking</a>**<br>
 **<a href="https://doctor987.github.io/Middleware/">Middleware</a>**<br>
 **<a href="https://doctor987.github.io/Testability/">Testability</a>**<br>
+**<a href="https://doctor987.github.io/Object-Detection-/">Object-Detection</a>**<br>
+**<a href="https://doctor987.github.io/Image-Processin/">Image-Processin</a>**<br>
+
 
 ---
 
