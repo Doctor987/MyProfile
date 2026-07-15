@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0118d379-e27f-4e47-a3e6-627dd4d890eb" /># 👨‍💻 นพดล สืบบุญ
+# 👨‍💻 นพดล สืบบุญ
 
 <p align="center">
   <img src="images/profile.png" width="200" style="border-radius:50%">
